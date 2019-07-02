@@ -1,0 +1,14 @@
+﻿Build started 2015/9/20 17:07:21.
+     1>Project "E:\leetcode\Best Time to Buy and Sell Stock III\Best Time to Buy and Sell Stock III\Best Time to Buy and Sell Stock III.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Best Time to Buy and Sell Stock III.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Best Time to Buy and Sell Stock III.cpp"
+         Best Time to Buy and Sell Stock III.cpp
+       Link:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\leetcode\Best Time to Buy and Sell Stock III\Debug\Best Time to Buy and Sell Stock III.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\leetcode\Best Time to Buy and Sell Stock III\Debug\Best Time to Buy and Sell Stock III.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\leetcode\Best Time to Buy and Sell Stock III\Debug\Best Time to Buy and Sell Stock III.lib" /MACHINE:X86 "Debug\Best Time to Buy and Sell Stock III.obj"
+         Debug\stdafx.obj
+         Best Time to Buy and Sell Stock III.vcxproj -> E:\leetcode\Best Time to Buy and Sell Stock III\Debug\Best Time to Buy and Sell Stock III.exe
+     1>Done Building Project "E:\leetcode\Best Time to Buy and Sell Stock III\Best Time to Buy and Sell Stock III\Best Time to Buy and Sell Stock III.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.78
